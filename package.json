@@ -1,0 +1,39 @@
+{
+  "name": "express-graphql-demo",
+  "version": "1.0.0",
+  "description": "express graphql mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangcpsnow/express-graphql-demo.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "wangcpsnow@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangcpsnow/express-graphql-demo/issues"
+  },
+  "homepage": "https://github.com/wangcpsnow/express-graphql-demo#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-graphql": "^0.7.1",
+    "express-http-proxy": "^1.2.0",
+    "express-myconnection": "^1.0.4",
+    "graphql": "^14.1.1",
+    "graphql-relay": "^0.6.0",
+    "graphql-sequelize": "^9.3.4",
+    "iconv-lite": "^0.4.23",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.5",
+    "qs": "^6.5.2",
+    "sequelize": "^4.43.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
